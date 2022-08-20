@@ -1,16 +1,18 @@
-### Hi there 👋
+                                                        Hi there 👋
+<div align="center">
+<p align="center">
+Some info about my code
+</p>
 
-<!--
-**paspielka/paspielka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://forthebadge.com/images/badges/made-with-crayons.svg" alt"crayons"/>
+<img src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg" alt="works"/> 
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=paspielka&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=paspielka&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paspielka&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
