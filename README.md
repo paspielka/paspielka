@@ -1,5 +1,5 @@
 
-## 🎶 Streak stats
+## ♟ Streak stats
 <br />
 
 <!-- Streak Stats - git.io/streak-stats -->
