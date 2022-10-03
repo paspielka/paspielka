@@ -9,8 +9,8 @@
 ## 🎱 Github stats
 <br />
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=paspielka&theme=dark&show_icons=true" />
-  <img height="200" style="margin-left: 3%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paspielka&theme=dark" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=paspielka&theme=dark&show_icons=true"/>
+   <img height="200" style="margin-left: 3%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paspielka&theme=dark"/>
 </p>
 
 <!-- Badges - https://github.com/Ileriayo/markdown-badges -->
