@@ -1,20 +1,25 @@
+<h2 align="center">who's paspielka</h1> 
 
-## ♟ Streak stats
-<br />
+<div class="whoami">
+  <ul>
+    <li>
+      mainly coding Kotlin, Python, Rust, Lua. Doing windows hacky stuff at weekend.
+    </li>
+     <li>
+      My projects could be immature, maybe PoC and development'd be halt at my discretion.
+    </li>
+  </ul>
+</div>
 
-<!-- Streak Stats - git.io/streak-stats -->
-<p align="center">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=paspielka&theme=dark&hide_border=false" />
-
-## 🎱 Github stats
-<br />
-<p align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=paspielka&theme=dark&show_icons=true"/>
-    <img height="200" style="margin-left: 3%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paspielka&theme=dark"/>
-</p>
+<div align="center">
+  
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-one-self.vercel.app/api?username=paspielka&show_icons=true&theme=dark&count_private=true&border_color=574666&include_all_commits=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-one-self.vercel.app/api/top-langs/?username=paspielka&layout=compact&theme=dark&border_color=574666" />
+  
+</div>
 
 <!-- Badges - https://github.com/Ileriayo/markdown-badges -->
-## ♟ What I'm interested in:
+## What I'm interested in:
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-%23000000?style=for-the-badge&logo=python&logoColor=white)
